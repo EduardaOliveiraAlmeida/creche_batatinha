@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(228, 228, 228);
+}
+
+.cadastro-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    height: 550px;
+    width: 60%;
+    margin-top: 50px;
+    margin-left: 20%;
+    border-radius: 2%;
+
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 10px 8px #888888;
+}
+
+#cadastro-title{
+    margin-top: 45px;
+    font-size: 40px;
+}
+
+#img-miau{
+    width:20%;
+    margin-top: 0;
+    align-self: center;
+}
+
+.cadastro-form{
+    padding: 20px 50px 20px 20px;
+    height: 10px;
+    margin-top: 25px;
+
+    width: 650px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 3px 5px 8px #bbb8b8;
+
+}
+
+.cadastro-button{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+
+    width: 100%;
+}
+
+#cadastro-button-cancela{
+    margin-right: 40px;
+    padding: 10px 20px 10px 20px;
+
+    width: 41%;
+
+    border: 2px solid darkblue;
+    border-radius: 5px;
+
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 15px;
+    color: darkblue;
+}
+
+#cadastro-button-salva{
+    padding: 10px 20px 10px 20px;
+
+    width: 41%;
+
+    background-color: darkblue;
+    color: white;
+
+    border: 2px solid darkblue;
+    border-radius: 5px;
+
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
