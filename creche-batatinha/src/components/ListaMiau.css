@@ -1,0 +1,65 @@
+.lista-body{
+    display: flex;
+    flex-direction: column;
+
+    height: 550px;
+    width: 55%;
+    margin-top: 50px;
+    margin-left: 20%;
+    border-radius: 2%;
+
+    background-color: rgb(255, 255, 255);
+    box-shadow: 5px 3px 8px #888888;
+}
+
+#lista-title{
+    margin-top: 40px;
+    align-self: center;
+    font-size: 40px;
+}
+
+.lista-table{
+    margin-left: 30px;
+    margin-top: 20px;  
+    margin-right: 30px;  
+
+}
+
+.lista-tr{
+    border-radius: 5%;
+    box-shadow: 2px 3px 10px #d4d4d4;
+    height: 80px;
+
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.lista-td{
+    display: flex;
+    align-items: center;
+
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.lista-gato-img{
+    max-width: 50px;
+    border-radius: 100%;
+    margin-right: 20px;
+}
+
+.lista-button-notas{
+    padding: 10px 15px 10px 15px;
+
+    width: 50%;
+
+    margin-left: 25%;
+
+    border: 2px solid darkblue;
+    border-radius: 5px;
+
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 15px;
+    color: darkblue;
+}
