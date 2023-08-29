@@ -1,4 +1,5 @@
-# Creche Batatinha
+
+<img width="1000" alt="Captura de Tela 2023-08-29 às 15 56 31" src="https://github.com/EduardaOliveiraAlmeida/creche_batatinha/assets/108241366/364f9121-b0aa-423e-aeee-35ef292625dc">
 
 ## Missão:
 
