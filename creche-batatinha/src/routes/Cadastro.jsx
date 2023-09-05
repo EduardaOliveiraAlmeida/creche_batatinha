@@ -1,6 +1,5 @@
 
-import CadastroMiau from "../components/CadastroMiau"
-
+import CadastroMiau from "../components/CadastroMiau/CadastroMiau"
 
 const Cadastro = () => {
   return (

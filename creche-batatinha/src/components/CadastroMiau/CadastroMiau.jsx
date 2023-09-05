@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import Miau from "../assets/miau.png"
+import Miau from "../../assets/miau.png"
 import "./CadastroMiau.css"
 
 

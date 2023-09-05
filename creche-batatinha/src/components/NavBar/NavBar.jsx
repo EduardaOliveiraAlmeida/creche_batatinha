@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 
-import Batatinha from "../assets/batatinha.png"
+import Batatinha from "/Users/mariaalm/Training/react-training/CRECHEBATATINHA/creche_batatinha/creche-batatinha/src/assets/batatinha.png"
 import './NavBar.css'
 
 const NavBar = () => {

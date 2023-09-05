@@ -1,4 +1,4 @@
-import HomeMiau from '../components/HomeMiau'
+import HomeMiau from '../components/HomeMiau/HomeMiau'
 
 const Home = () => {
   return (

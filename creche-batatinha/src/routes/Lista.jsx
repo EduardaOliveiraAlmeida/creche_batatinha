@@ -1,4 +1,4 @@
-import ListaMiau from "../components/ListaMiau"
+import ListaMiau from "../components/ListaMiau/ListaMiau"
 
 const Lista = () => {
   return (

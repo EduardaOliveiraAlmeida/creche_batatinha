@@ -1,4 +1,4 @@
-import NotasMiau from "../components/NotasMiau"
+import NotasMiau from "../components/NotasMiau/NotasMiau"
 
 
 const Notas = () => {
