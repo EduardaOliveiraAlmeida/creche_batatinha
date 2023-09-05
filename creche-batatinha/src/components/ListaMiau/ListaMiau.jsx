@@ -1,9 +1,10 @@
 import "./ListaMiau.css"
 
-import Gato1 from '../assets/gato1.jpeg'
-import Gato2 from '../assets/gato2.jpeg'
-import Gato3 from '../assets/gato3.jpeg'
-import Gato4 from '../assets/gato4.jpeg'
+import Gato1 from "../../assets/gato1.jpeg"
+import Gato2 from "../../assets/gato2.jpeg"
+import Gato3 from "../../assets/gato3.jpeg"
+import Gato4 from "../../assets/gato4.jpeg"
+
 
 import { Link } from "react-router-dom"
 
